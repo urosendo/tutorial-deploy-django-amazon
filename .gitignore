@@ -3,4 +3,4 @@ venv
 *.sqlite3
 *.pyc
 .env
-deploy-amazon.pem
+tutorial-deploy-amazon.pem
