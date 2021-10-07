@@ -1,5 +1,7 @@
 # Deploy de uma aplicação Django #Django #uWSGI #Nginx #Amazon #Ubuntu 
 
+Aplicação no ar: http://52.15.78.92:8000/
+
 
 Acesse a instância, atualize e instale as dependências:
 ```
